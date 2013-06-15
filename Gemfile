@@ -9,6 +9,8 @@ group :development do
 	gem 'sqlite3', '1.3.7'
 end
 
+gem 'multi_json' , '1.7.7' # Brad guess to fix
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.0.rc2'
 
